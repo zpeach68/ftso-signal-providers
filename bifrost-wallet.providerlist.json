@@ -1638,6 +1638,14 @@
       "url": "https://trueftso.com",
       "address": "0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
+    },
+    {
+      "chainId": 19,
+      "name": "Tahoe Oracle",
+      "description": "Tahoe Oracle provides purely accurate Songbird Network pricing.",
+      "url": "https://tahoeoracle.com",
+      "address": "0xb7897BEBCa9f8bB22536E68e09DfBc17bb50cA37",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb7897BEBCa9f8bB22536E68e09DfBc17bb50cA37.png"
     }
   ]
 }
